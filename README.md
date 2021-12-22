@@ -5,7 +5,7 @@ A data scientist passionate about **Data** :bar_chart:. I like automating things
 Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
 
 🔭 I’m currently working on:
-- [X] Getting my Bacherlors in **Applied Math** from Univeridade Federal do Rio Grande do Sul.
+- [X] Getting my Bacherlors in **Applied Math** from Universidade Federal do Rio Grande do Sul.
 - [X] Getting my Technologist in **Software Analysis and Development** from Estacio.
 - [X] Learning **R**, **Machine Learning** and **Cloud**
 	
