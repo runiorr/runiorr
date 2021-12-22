@@ -49,11 +49,11 @@ Cursando <strong>Matemática Aplicada na Universidade Federal do Rio Grande do S
 
 <br>
 
-## 💻Atividade codando
+<!-- ## 💻Atividade codando
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runiorr&theme=dracula" width="30%" /><img src="https://github-readme-stats.vercel.app/api?username=runiorr&theme=dracula" width="62%" />
 <br>
-
+!-->
 
 ### Entre em contato comigo:
 
