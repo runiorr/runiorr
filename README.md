@@ -9,12 +9,13 @@ Também estudo Matemática Aplicada na Universidade Federal do Rio Grande do Sul
 <br>
 
 ## 👩‍💻 Sobre mim
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Amo programar
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />  Python e Node.js <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" />
-* 👩‍🏫 Amo ensinar e compartilhar conhecimento
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Amo programar e solucionar problemas
+* 📐 Fã da Matemática
+* 👩‍🏫 Paixão po ensinar e compartilhar conhecimento
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> Mergulhando no mundo de ciência de dados
 * 🦾 Adoro me exercitar ao ar livre
-* 📚 Gosto de ler mangás
+* 📚 Meu hobbie é a leitura (ficção e mangás)
 
 <br>
 
