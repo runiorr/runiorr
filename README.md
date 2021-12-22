@@ -2,7 +2,7 @@
 
 Sou estagiário de data science na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
 
-Minha jornada com a tecnologia começou em 2020 e meus interesses são: desenvolvimento back-end, inteligência artificial, análise de dados e matemática/estatística. Atualmente estou estudando algoritmos de aprendizado de máquina.
+Minha jornada com a tecnologia começou em 2020 e não parei de evoluir desde então. Meus interesses são: desenvolvimento back-end, inteligência artificial, análise de dados e matemática/estatística. Atualmente estou estudando algoritmos de aprendizado de máquina.
 
 Cursando <strong>Matemática Aplicada na Universidade Federal do Rio Grande do Sul</strong> e <strong>Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá</strong>. Gosto muito das áreas de Cálculo e Vetores.
 
