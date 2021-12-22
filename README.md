@@ -36,12 +36,14 @@ Cursando <strong>Matemática Aplicada na Universidade Federal do Rio Grande do S
   
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+    ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
     
 - 🛠 Ferramentas
   
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
     ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
     ![vscode](https://img.shields.io/badge/-vscode-05122A?style=flat&logo=visualstudiocode)&nbsp;
+    ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
     
     
 
