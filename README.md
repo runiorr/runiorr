@@ -7,8 +7,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 🔭 I’m currently working on:
 - [X] Getting my Bacherlors in **Applied Math** from Univeridade Federal do Rio Grande do Sul.
 - [X] Getting my Technologist in **Software Analysis and Development** from Estacio.
-- [X] Learning **R** and **Machine Learning**
-- [X] Learning **Cloud**
+- [X] Learning **R**, **Machine Learning** and **Cloud**
 	
 :bulb: I'm interested in:  **Backend, Cloud, Artificial Intelligence, Stats, Math and Data Science**
 <br>
