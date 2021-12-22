@@ -59,3 +59,5 @@ Cursando <strong>Matemática Aplicada na Universidade Federal do Rio Grande do S
 <a href = "mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joserodrigs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+![Snake animation](https://github.com/runiorr/runiorr/blob/output/github-contribution-grid-snake.svg)
