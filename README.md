@@ -47,7 +47,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
     ![Scikit](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp;
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
     ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
-    ![vscode](https://img.shields.io/badge/-vscode-05122A?style=flat&logo=visualstudiocode)&nbsp;
+    ![vscode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
     ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
     
     
