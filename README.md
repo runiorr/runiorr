@@ -21,6 +21,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> Diving into data world
 * 🤸‍♂️ Outdoor fitness
 * 📚 My hobbie is reading (fictions and manga)
+* 📝 I write some stuff <a href="https://pingback.com/runiorr">here</a>
 <br>
 
 ## 🛠️Tech Stack
