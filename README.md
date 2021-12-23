@@ -21,7 +21,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> Diving into data world
 * 🤸‍♂️ Outdoor fitness
 * 📚 My hobbie is reading (fictions and manga)
-* 📝 I write some stuff <a href="https://pingback.com/runiorr">here</a>
+* 📝 I write some stuff --> <a href="https://pingback.com/runiorr">here</a>
 <br>
 
 ## 🛠️Tech Stack
@@ -66,5 +66,6 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 
 <div>
 <a href = "mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joserodrigs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/joserodrigs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://twitter.com/_runiorr?ref_src=twsrc%5Etfw"><img src="https://img.shields.io/twitter/url/https/twitter.com/_runiorr.svg?style=social&label=Follow%20%40_runiorr" target="_blank"></a>
 </div>
