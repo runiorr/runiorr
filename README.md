@@ -1,31 +1,31 @@
-## Welcome to my GitHub! I'm Jose Rodrigues <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
+## Bem vindo ao meu GitHub! Sou o José <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
 
-A data scientist passionate about **Data** :bar_chart:. I like automating things, building pipelines, analysing data and solving math problems. I am a Strong Advocate for  :new: Innovation and Automation :robot: 
+Um cientista de dados apaixonado por **Dados** :bar_chart:. Gosto de automatizar processos, construir pipelines, analizar dados e resolver problemas matemáticos. Forte apoiador de :new: Inovação e Automação :robot: 
 
-Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
+Estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
 
-🔭 I’m currently working on:
-- [X] Getting my Bachelor’s Degree in **Applied Math** from Universidade Federal do Rio Grande do Sul.
-- [X] Getting my Technologist's Degree in **Software Analysis and Development** from Estacio.
-- [X] Learning **R**, **Machine Learning** and **Cloud**
+🔭 Atualmente estou trabalhando para:
+- [X] Conseguir meu Bacharelado em **Matemática Aplicada** pela Universidade Federal do Rio Grande do Sul.
+- [X] Conseguir meu Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela Estacio.
+- [X] Aprender **R**, **Machine Learning** e **Cloud Computing**
 	
-:bulb: I'm interested in:  **Backend, Cloud, Artificial Intelligence, Stats, Math and Data Science**
+:bulb: Tenho forte interesse em:  **Backend, Cloud, Inteligência Artificial, Estatística, Matemática e Ciência de Dados**
 <br>
 
-## 👩‍💻 About me
-* I'm from Brazil
+## 👩‍💻 Sobre mim
+* Sou gaúcho
 * <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />  Python & Node.js <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" />
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Love coding and problem solving
-* 📐 Math student
-* 👩‍🏫 Like to teach and learn new things
-* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> Diving into data world
-* 🤸‍♂️ Outdoor fitness
-* 📚 My hobbie is reading (fictions and manga)
-* 📝 I write some stuff --> <a href="https://pingback.com/runiorr">here</a>
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Amo programar e resolver problemas
+* 📐 Fã de Geometria
+* 👩‍🏫 Adoro ensinar e aprender coisas novas
+* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> Mergulhando no mundo dos dados
+* 🤸‍♂️ Exercícios ao ar livre
+* 📚 Meu hobbie é ler (ficção e mangas)
+* 📝 Eu escrevo --> <a href="https://pingback.com/runiorr">aqui</a>
 <br>
 
 ## 🛠️Tech Stack
-- 👩‍💻 Languages
+- 👩‍💻 Linguagens
   
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -37,13 +37,13 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
       
     <img src="https://img.shields.io/badge/wait-loading-blue" alt="Loading" title="Loading" width="10%" />
     
-- 🐘 Databases
+- 🐘 Banco de dados
   
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
     ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
     
-- 🛠 Tools
+- 🛠 Ferramentas
   
     ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
     ![Scikit](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp;
@@ -62,7 +62,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 <br>
 !-->
 
-### Contact me:
+### Entre em Contato:
 
 <div>
 <a href = "mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
