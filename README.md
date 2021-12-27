@@ -20,7 +20,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 * 👩‍🏫 Like to teach and learn new things
 * <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> Diving into data world
 * 🤸‍♂️ Outdoor fitness
-* 📚 My hobbie is reading (fictions and manga)
+* 📚 My hobbies are reading manga and playing Rocket League
 * 📝 I write some stuff --> <a href="https://medium.com/@runiorr">Medium</a> in English and <a href="https://pingback.com/runiorr">Pingback</a> in Portuguese
 <br>
 
