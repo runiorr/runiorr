@@ -11,10 +11,10 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 	
 :bulb: I'm interested in:  **Artificial Intelligence, Backend, Cloud, Stats, Math and Data Science**
 <br>
-
+<!-- & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="" /> !-->
 ## 👩‍💻 About me
 * 💚 I'm from Brazil
-* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" /> & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="" />
+* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" />
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Love coding and problem solving
 * 📐 Math student
 * 👩‍🏫 Like to teach and learn new things
