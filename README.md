@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! I'm Jose Rodrigues <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
 
-A data scientist passionate about **Data** :bar_chart:. I like automating things, building pipelines, analysing data and solving math problems. I am a Strong Advocate for  :new: Innovation and Automation :robot: 
+I'm a data scientist passionate about **Data** 📊. I like analyzing data, building models, automating things, creating pipelines, and solving math problems. I am a Strong Advocate for 🆕 Innovation and 🤖 Automation! 
 
 Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
 
@@ -9,12 +9,12 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 - [X] Getting my Technologist's Degree in **Software Analysis and Development** from Estacio.
 - [X] Learning **R**, **Machine Learning** and **Cloud**
 	
-:bulb: I'm interested in:  **Backend, Cloud, Artificial Intelligence, Stats, Math and Data Science**
+:bulb: I'm interested in:  **Artificial Intelligence, Backend, Cloud, Stats, Math and Data Science**
 <br>
 
 ## 👩‍💻 About me
 * 💚 I'm from Brazil
-* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> Python & Node.js <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" />
+* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" /> & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="" />
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Love coding and problem solving
 * 📐 Math student
 * 👩‍🏫 Like to teach and learn new things
@@ -28,6 +28,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 - 👩‍💻 Languages
   
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
     ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
     ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
     ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
