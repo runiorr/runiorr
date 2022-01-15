@@ -19,7 +19,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 * 📐 Math student
 * 👩‍🏫 Like to teach and learn new things
 * 🤸‍♂️ Outdoor fitness
-* 📚 My hobbies are reading manga and playing Rocket League
+* 📚 My hobbies are reading manga, playing Rocket League and drawing pixel art
 * 📝 I write some stuff --> <a href="https://medium.com/@runiorr">Medium</a> in English and <a href="https://pingback.com/runiorr">Pingback</a> in Portuguese
 <br>
 
