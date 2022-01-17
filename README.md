@@ -9,7 +9,7 @@ Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Br
 - [X] Getting my Technologist's Degree in **Software Analysis and Development** from Estacio.
 - [X] Learning **API**, **Docker** and **Cloud**
 	
-:bulb: I'm interested in:  **Artificial Intelligence, Cloud Computing, Math/Stats and Data Science**
+:bulb: I'm interested in:  **Machine Learning, Cloud Computing, Math/Stats and Data Science**
 <br>
 <!-- & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="" /> !-->
 ## 👩‍💻 About me
