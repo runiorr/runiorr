@@ -1,19 +1,22 @@
 <h1>Olá, eu sou o José, um desenvolvedor apaixonado pelo que faz!  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/></h1>
 
-Gosto de automatizar processos, construir pipelines, analizar dados e resolver problemas. Forte apoiador de inovação e automação :robot:
+<p align="center">
+<a href="https://www.linkedin.com/in/joserodrigs/"><img src="https://img.shields.io/badge/-Jose%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/-joseluisrjunior@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+<h2> 👩‍💻 Sobre mim </h2>
 
-Estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
+Meu primeiro contato com programação aconteceu com 11 anos quando quis criar um jogo. Utilizando o GameMaker Studio (e muitos tutoriais) consegui montar um jogo parecido com o antigo Super Metroid, um _shooter 2d_. Montar algo e ver outras pessoas utilizando me despertou uma sensação de realização.
 
-🔭 Atualmente estou estudando sobre **API**, **Docker** and **Cloud**
-	
-:bulb: Grande interesse pelas áreas de:  **Machine Learning, Cloud Computing e Data Science**
-<br>
-<!-- & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="" /> !-->
-## 👩‍💻 Sobre mim
-* Linguagens favoritas: <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" /> Javascript & Python <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Amo codar
+Foi uma experiência muito marcante e enriquecedora, contanto somente com 17 anos resolvi aprender mais a fundo como programar. Desde então, não parei mais. Comecei estudando sobre data science e hoje meu foco é desenvolvimento web. Essas duas áreas atraem meu interesse. Minhas atividades favoritas são: automatizar tarefas, construir pipelines de dados e criar APIs.
+
+Estou estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
+
+:bulb: Atualmente estou estudando: **Back-end**, **Docker**, **AWS** e **Machine Learning**.
+
+* 👨‍💻 Linguagens favoritas: <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" /> Javascript & Python <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />
 * 👩‍🏫 Gosto de ensinar e aprender
-* 🤸‍♂️ Calistenia ao ar livre
+* 🤸‍♂️ Calistenia
 * 📚 Gosto de ler mangás, desenhar pixel art e jogar Rocket League 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -35,10 +38,7 @@ Estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2D
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 <br>
 
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-### Entre em contato:
+![José Rodrigues GitHub Stats](https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&theme=dracula)
 
-<div>
-<a href = "mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joserodrigs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
