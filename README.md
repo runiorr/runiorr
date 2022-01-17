@@ -1,63 +1,42 @@
-## Welcome to my GitHub! I'm Jose Rodrigues <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
+<h1>Olá, eu sou o José, um desenvolvedor apaixonado pelo que faz!  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/></h1>
 
-I'm a back end developer passionate about **Data** 📊. I enjoy automating things, creating pipelines, analyzing data, building models and solving math problems. I'm a strong advocate for 🆕 Innovation and 🤖 Automation! 
+Gosto de automatizar processos, construir pipelines, analizar dados e resolver problemas. Forte apoiador de inovação e automação :robot:
 
-Doing Data Science intership at <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
+Estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
 
-🔭 I’m currently working on:
-- [X] Getting my Bachelor’s Degree in **Applied Math** from Universidade Federal do Rio Grande do Sul.
-- [X] Getting my Technologist's Degree in **Software Analysis and Development** from Estacio.
-- [X] Learning **API**, **Docker** and **Cloud**
+🔭 Atualmente estou estudando sobre **API**, **Docker** and **Cloud**
 	
-:bulb: I'm interested in:  **Machine Learning, Cloud Computing, Math/Stats and Data Science**
+:bulb: Grande interesse pelas áreas de:  **Machine Learning, Cloud Computing e Data Science**
 <br>
 <!-- & <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="" /> !-->
-## 👩‍💻 About me
-* 💚 I'm from Brazil 
-* <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="" /> Node.js & Python <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Love coding and problem solving
-* 📐 Math student
-* 👩‍🏫 Like to teach and learn new things
-* 🤸‍♂️ Outdoor fitness
-* 📚 My hobbies are reading manga, playing Rocket League and drawing pixel art
-* 📝 I write some stuff --> <a href="https://medium.com/@runiorr">Medium</a> in English and <a href="https://pingback.com/runiorr">Pingback</a> in Portuguese
-<br>
+## 👩‍💻 Sobre mim
+* Linguagens favoritas: <img width="16" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" /> Javascript & Python <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" />
+* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" />  Amo codar
+* 👩‍🏫 Gosto de ensinar e aprender
+* 🤸‍♂️ Calistenia ao ar livre
+* 📚 Gosto de ler mangás, desenhar pixel art e jogar Rocket League 
 
-## 🛠️Tech Stack
-- 👩‍💻 Languages
-  
-    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-    ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-    ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
-    
-- ☁️ Cloud
-      
-    <img src="https://img.shields.io/badge/wait-loading-blue" alt="Loading" title="Loading" width="10%" />
-    
-- 🚢 Docker
-      
-    <img src="https://img.shields.io/badge/wait-loading-blue" alt="Loading" title="Loading" width="10%" />
-    
-- 🐘 Databases
-  
-    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-    ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-    
-- 🛠 Tools
-  
-    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-    ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
-    ![vscode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
-    ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-    ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-    
-    
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 <br>
 
 
-### Contact me:
+### Entre em contato:
 
 <div>
 <a href = "mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
