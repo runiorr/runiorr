@@ -6,9 +6,9 @@
 </p>
 <h2> 👩‍💻 Sobre mim </h2>
 
-Meu primeiro contato com programação aconteceu com 11 anos quando quis criar um jogo. Utilizando o GameMaker Studio (e muitos tutoriais) consegui montar um jogo parecido com o antigo Super Metroid, um _shooter 2d_. Montar algo e ver outras pessoas utilizando me despertou uma sensação de realização.
+Meu primeiro contato com programação aconteceu com 11 anos quando quis criar um jogo. Utilizando o GameMaker Studio (e muitos tutoriais 👾) consegui montar um jogo parecido com o Super Metroid, um _shooter 2d_. Produzir algo e ver outras pessoas utilizando me despertou uma sensação de realização.
 
-Foi uma experiência muito marcante e enriquecedora, contanto somente com 17 anos resolvi aprender mais a fundo como programar. Desde então, não parei mais. Comecei estudando sobre data science e hoje meu foco é desenvolvimento web. Essas duas áreas atraem meu interesse. 
+Foi uma experiência muito marcante e enriquecedora, contanto somente com 17 anos resolvi aprender mais a fundo como programar. Desde então, não parei mais. Comecei estudando sobre data science e hoje meu foco é desenvolvimento web. Essas duas áreas me conquistaram. 
 
 Minhas atividades favoritas são: automatizar tarefas, analisar dados, construir pipelines e criar APIs.
 
