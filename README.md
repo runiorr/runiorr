@@ -10,7 +10,7 @@ modelos analíticos e demais processos que apoiem a squad na evolução dos prod
 
 Estou estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
 
-Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pratico exercicios físicos, leio mangás, desenho pixel art e jogo Rocket League.
+Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pratico exercicios físicos, leio mangás, desenho pixel art, jogo xadrez e Rocket League.
 
 <br>
 
