@@ -27,7 +27,8 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  
  #### 🛠 Desenvolvimento:
  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
- ![JavaScript.js](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+ ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=Prisma)
  
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
