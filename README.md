@@ -41,5 +41,5 @@ Estou estagiando como cientista de dados na <a href="https://chat2desk.com.br/">
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![José Rodrigues GitHub Stats](https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&theme=dracula)
+![José Rodrigues GitHub Stats](https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&theme=dracula&include_all_commits=false&count_private=true)
 
