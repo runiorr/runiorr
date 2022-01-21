@@ -1,23 +1,16 @@
-<h1>Olá, eu sou o José, um desenvolvedor apaixonado pelo que faz!  <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/></h1>
+# Olá, eu sou o José <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/joserodrigs/"><img src="https://img.shields.io/badge/-Jose%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/-joseluisrjunior@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-<h2> 👩‍💻 Sobre mim </h2>
 
-Meu primeiro contato com programação aconteceu com 11 anos quando quis criar um jogo. Utilizando o GameMaker Studio (e muitos tutoriais 👾) consegui montar um jogo parecido com o Super Metroid, um _shooter 2d_. Produzir algo e ver outras pessoas utilizando me despertou uma sensação de realização.
-
-Foi uma experiência muito marcante e enriquecedora, contanto somente com 17 anos resolvi aprender mais a fundo como programar. Desde então, não parei mais. Comecei estudando sobre data science e hoje meu foco é desenvolvimento voltado ao back-end. Essas duas áreas me conquistaram. 
-
-Minhas atividades favoritas são: automatizar tarefas, analisar dados, construir pipelines, criar APIs e testar novas tecnologias.
+**Desenvolvedor** com foco em automação, infraestrutura, coleta, estruturação e pré-processamento de dados, além do desenvolvimento de
+modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad na evolução dos produtos e serviços.
 
 Estou estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
 
-* 👩‍🏫 Gosto de ensinar e aprender
-* 🤸‍♂️ Calistenia
-* ♟ Enxadrista não muito bom mas não tão ruim
-* 📚 Gosto de ler mangás, desenhar pixel art e jogar Rocket League 
+Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pratico exercicios físicos, leio mangás, desenho pixel art e jogo Rocket League.
 
 <br>
 
@@ -58,12 +51,12 @@ Estou estagiando como cientista de dados na <a href="https://chat2desk.com.br/">
  
  <br>
 
-<h2> :chart_with_upwards_trend: Estatísticas </h2>
+## :chart_with_upwards_trend: Estatísticas
 
 <a href="https://github.com/runiorr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&theme=dark&include_commits=true"/>
 </a>
 
-<a href="https://github.com/runiorr">
+<a href="https://github.com/runiorr?tab=repositories">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runiorr&layout=compact&langs_count=8&theme=dark"/>
 </a>
