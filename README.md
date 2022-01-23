@@ -56,7 +56,7 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
 ## :chart_with_upwards_trend: Estatísticas
 
 <a href="https://github.com/runiorr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/runiorr?tab=repositories">
