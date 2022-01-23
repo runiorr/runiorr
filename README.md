@@ -27,8 +27,11 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  
  #### 🛠 Desenvolvimento:
  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
  ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=Prisma)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+ ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
+
  
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
@@ -42,12 +45,9 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
+
  
  #### 🌱 Estou aprendendo:
- ![Celery](https://img.shields.io/badge/Celery-black?style=flat-square&logo=Celery)
- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=RabbitMQ)
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
  ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
  
