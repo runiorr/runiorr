@@ -16,14 +16,15 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
 
  #### 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
  
  #### 🛠 Desenvolvimento:
  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=Prisma)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
@@ -36,18 +37,16 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  
  #### 📚 Tenho conhecimento básico:
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  
  #### 🌱 Estou aprendendo:
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
- 
- <!--
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
- ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx) -->
+ ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
+ 
  
  <br>
 
