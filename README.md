@@ -8,8 +8,6 @@
 **Desenvolvedor** com foco em automação, infraestrutura, coleta, estruturação e pré-processamento de dados, além do desenvolvimento de
 modelos analíticos e demais processos que apoiem o time na evolução dos produtos e serviços.
 
-Estou estagiando como cientista de dados na <a href="https://chat2desk.com.br/">Chat2Desk Brasil</a>
-
 Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pratico exercicios físicos, leio mangás, desenho pixel art, jogo xadrez e Rocket League.
 
 <br>
