@@ -20,7 +20,6 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
@@ -32,7 +31,6 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
 
- 
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
@@ -44,12 +42,14 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
-
  
  #### 🌱 Estou aprendendo:
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ 
+ <!--
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
- ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
+ ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx) -->
  
  <br>
 
