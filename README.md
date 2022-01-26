@@ -46,6 +46,7 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  #### 🌱 Estou aprendendo:
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
  ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
+ ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon)
  
  
  <br>
