@@ -37,16 +37,21 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  
  #### 📚 Tenho conhecimento básico:
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
- ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ 
  
  #### 🌱 Estou aprendendo:
+ ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
+ ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
  ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
+ 
+ <!--
+ ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
  ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
- ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon)
+ ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon) -->
  
  
  <br>
