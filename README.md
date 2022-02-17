@@ -38,11 +38,13 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  
  #### 🌱 Estou aprendendo:
  ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
- ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
+ ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
+ 
  
  <!--
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
  ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
+ ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes)
  ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon) -->
  
  
