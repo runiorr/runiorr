@@ -5,7 +5,7 @@
 <a href="mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/-joseluisrjunior@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-**Desenvolvedor** com foco em automação, infraestrutura, coleta e pré-processamento de dados, além do desenvolvimento de modelos e demais processos que apoiem o time na evolução dos produtos e serviços.
+**Desenvolvedor FullStack** com foco em automação, infraestrutura, coleta e pré-processamento de dados, além do desenvolvimento de modelos e demais processos que apoiem o time na evolução dos produtos e serviços.
 
 Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pratico exercicios físicos, leio mangás, desenho pixel art, jogo xadrez e Rocket League.
 
