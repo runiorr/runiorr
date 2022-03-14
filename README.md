@@ -14,6 +14,7 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
 ## 🚀 **Tech-Stack**
 
  #### ⚙ Back-end:
+ ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
@@ -37,7 +38,7 @@ Amo programar e compartilhar meu conhecimento com as pessoas. Nas horas vaga pra
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  
  #### 🌱 Estou aprendendo:
- ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
+ 
  ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
  
  
