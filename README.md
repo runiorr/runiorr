@@ -42,7 +42,7 @@ Amo compartilhar meu conhecimento com as pessoas. Nas horas vaga pratico exercic
  
  #### 🌱 Estou aprendendo:
  
-<!--  ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go) -->
+ ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
  ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon)
  
  
