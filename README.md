@@ -17,6 +17,7 @@ Amo compartilhar meu conhecimento com as pessoas. Nas horas vaga pratico exercic
  ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+ ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=ApacheKafka)
  ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=Oracle)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
