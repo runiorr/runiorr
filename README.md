@@ -16,9 +16,9 @@ a great intersection with Data Science.
 ## 🚀 **Stack**
 
  #### ⚙ Back-end:
- ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+ ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
  ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=ApacheKafka)
  
  #### 💻 Front-end:
