@@ -5,7 +5,11 @@
 <a href="mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/-joseluisrjunior@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-I'm a full-stack developer focused on developing websites, task automation, data gathering, and pre-processing, in addition to the development of processes that support the team in the evolution of products and services.
+<p>
+Full Stack developer and curious about the data area. I really enjoy working on new features, automations and with
+data analysis, always thinking of ways to optimize processes. My goal is to specialize in Backend having
+a great intersection with Data Science.
+</p>
 
 <br>
 
