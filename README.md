@@ -5,7 +5,7 @@
 
 **Bio**
 
-- 👷‍♂️ I’m currently working on [Sicredi](https://www.sicredi.com.br/home/)
+- 👷‍♂️ I'm currently studying for my bachelor's in Mathematics
 
 <!--- - 💡 Contributing to Udemy with Online Courses: [Udemy](https://www.udemy.com/) --->
 
