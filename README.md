@@ -1,52 +1,44 @@
-# Hi, I'm José <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
+<h1 align="center">Hi 👋, I'm Jose Rodrigues</h1>
+<h3 align="center">A software engineer</h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/joserodrigs/"><img src="https://img.shields.io/badge/-Jose%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:joseluisrjunior@gmail.com"><img src="https://img.shields.io/badge/-joseluisrjunior@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=runiorr&label=Profile%20views&color=0e75b6&style=flat" alt="runiorr" /> </p>
+
+**Bio**
+
+- 👷‍♂️ I’m currently working on [Sicredi](https://www.sicredi.com.br/home/)
+
+<!--- - 💡 Contributing to Udemy with Online Courses: [Udemy](https://www.udemy.com/) --->
+
+- 🔥 Interested in  **Data Science** and **Data Engineering**
+
+**Working**
+
+🚀 I use daily: <code>.py</code>, <code>.sql</code>, <code>.pbix</code>
+
+<!--- 🚀 My currently Stack: <code> AWS Glue, AWS Crawlers, Spark, Delta Lakehouse and Redshift.</code> --->
+
+✅ Learning every day about **Data Science**
+
+**Community**
+
+- 👯 I’m looking to collaborate on **Data Architecture, Data Solutions and everything that involves data science/engineering.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/runiorr](https://github.com/runiorr)
+
+- 📫 How to reach me **joseluisrjunior@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/joserodrigs/](https://www.linkedin.com/in/joserodrigs/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joserodrigs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joserodrigs" height="30" width="40" /></a>
 </p>
 
-<p>
-Full Stack developer and curious about the data area. I really enjoy working on new features, automations and with
-data analysis, always thinking of ways to optimize processes. My goal is to specialize in Backend having
-a great intersection with Data Science.
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=runiorr&show_icons=true&locale=en&layout=compact" alt="runiorr" /></p>
 
-## 🚀 **Stack**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&locale=en" alt="runiorr" /></p>
 
- #### ⚙ Back-end:
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
- ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
- ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=Java)
- ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=ApacheKafka)
- 
- #### 🎲 Data science:
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
- 
- #### 💻 Front-end:
- ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
- ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
- 
- #### 🛠 Tools:
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=GitLab)
- 
- #### 🌱 Learning:
- ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon)
- 
- 
- 
-<!--  
- ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
- ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx)
- ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=Kubernetes) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runiorr&" alt="runiorr" /></p>
