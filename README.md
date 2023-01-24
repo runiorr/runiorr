@@ -1,44 +1,63 @@
-<h1 align="center">Hi 👋, I'm Jose Rodrigues</h1>
-<h3 align="center">A software engineer</h3>
+# Hi, I'm José <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=runiorr&label=Profile%20views&color=0e75b6&style=flat" alt="runiorr" /> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/joserodrigs/"><img src="https://img.shields.io/badge/-Jose%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-**Bio**
+<p>
+Software engineer with experience building automated data collection, analytics, predictive models, and data visualizations. Using Databricks for data engineering tasks, working on Data Lake with PySpark.
 
-- 👷‍♂️ I'm currently studying for my bachelor's in Mathematics
-
-<!--- - 💡 Contributing to Udemy with Online Courses: [Udemy](https://www.udemy.com/) --->
-
-- 🔥 Interested in  **Data Science** and **Data Engineering**
-
-**Working**
-
-🚀 I use daily: <code>.py</code>, <code>.sql</code>, <code>.pbix</code>
-
-<!--- 🚀 My currently Stack: <code> AWS Glue, AWS Crawlers, Spark, Delta Lakehouse and Redshift.</code> --->
-
-✅ Learning every day about **Data Science**
-
-**Community**
-
-- 👯 I’m looking to collaborate on **Data Architecture, Data Solutions and everything that involves data science/engineering.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/runiorr](https://github.com/runiorr)
-
-- 📫 How to reach me **joseluisrjunior@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/joserodrigs/](https://www.linkedin.com/in/joserodrigs/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joserodrigs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joserodrigs" height="30" width="40" /></a>
+Expertise in cloud computing, mainly in the AWS ecosystem, helping teams manage their workloads and reducing usage costs both in the cloud and on-premises sites.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=runiorr&show_icons=true&locale=en&layout=compact" alt="runiorr" /></p>
+## 🚀 **Stack**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runiorr&show_icons=true&locale=en" alt="runiorr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runiorr&" alt="runiorr" /></p>
+ #### ⚙ Back-end:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+ ![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=PySpark)
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ 
+ ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+ ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
+ 
+ ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
+ ![Chi](https://img.shields.io/badge/Chi-black?style=flat-square&logo=Chi)
+ 
+ ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust)
+ 
+ ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=jakarta)
+ ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=Spring)
+ 
+ #### 🤖 Embedded:
+ ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
+ ![C](https://img.shields.io/badge/--black?style=flat-square&logo=c)
+ ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
+ ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=ESP32)
+ 
+ #### 💻 Front-end:
+ ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+ ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
+ 
+ #### ☁ Cloud:
+ ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon)
+ 
+ #### 🛠 Tools:
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=ApacheKafka)
+ 
+ #### 🎲 Databases:
+ ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=MariaDB)
+ ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+ ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=Oracle)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
