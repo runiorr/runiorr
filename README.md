@@ -32,11 +32,19 @@ Expertise in cloud computing, mainly in the AWS ecosystem, helping teams manage 
  ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=jakarta)
  ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=Spring)
  
+ ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=ApacheKafka)
+ 
  #### 🤖 Embedded:
  ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
  ![C](https://img.shields.io/badge/--black?style=flat-square&logo=c)
  ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino)
  ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=ESP32)
+ 
+ #### ☁ Infra:
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  
  #### 💻 Front-end:
  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
@@ -45,15 +53,8 @@ Expertise in cloud computing, mainly in the AWS ecosystem, helping teams manage 
  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3)
  
- #### ☁ Cloud:
- ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=Amazon)
- 
  #### 🛠 Tools:
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
- ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=ApacheKafka)
  
  #### 🎲 Databases:
  ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=MariaDB)
