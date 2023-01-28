@@ -21,13 +21,14 @@ Expertise in cloud computing, mainly in the AWS ecosystem, helping teams manage 
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  
- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
- ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
- 
+ ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust)
+
  ![Go](https://img.shields.io/badge/Go-black?style=flat-square&logo=Go)
  ![Chi](https://img.shields.io/badge/Chi-black?style=flat-square&logo=Chi)
- 
- ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust)
+ ![Gin](https://img.shields.io/badge/Gin-black?style=flat-square&logo=Gin)
+
+ ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+ ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
  
  ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=jakarta)
  ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=Spring)
