@@ -8,7 +8,6 @@ Software engineer with experience building automated data collection, analytics,
 
 Expertise in cloud computing, mainly in the AWS ecosystem, helping teams manage their workloads and reducing usage costs both in the cloud and on-premises sites.
  
-Teaching about Rust [here](https://www.instagram.com/rustcoder/)
 </p>
 
 <br>
