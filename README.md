@@ -1,15 +1,3 @@
-# Hi, I'm José <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob"/>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/joserodrigs/"><img src="https://img.shields.io/badge/-Jose%20Rodrigues-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-
-<p>
-Software engineer with experience building automated data collection, analytics, predictive models, and data visualizations. Experience working on Data Lake with PySpark and Databricks platform.
-
-Expertise in cloud computing, mainly in the AWS ecosystem, helping teams manage their workloads and reducing usage costs both in the cloud and on-premises sites.
- 
-</p>
-
 <br>
 
 ## 🚀 **Stack**
